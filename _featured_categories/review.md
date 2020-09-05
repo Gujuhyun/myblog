@@ -4,7 +4,7 @@ title: Review
 slug: review
 menu: true
 submenu: false
-order: 6
+order: 3
 description: >
-  IT 서적 및 그 외 다양한 서적을 읽고 작성한 리뷰 모음.
+  잡식성 인재를 희망하기에 다양한 서적,체험,여행 등 다양한 리뷰.
 ---
