@@ -13,17 +13,16 @@ url:                 https://ofcomma.com
 baseurl:             ""
 
 # A very short description of your page
-tagline:              " NEXT COMMA NEW THING "
+tagline:             "NEXT COMMA NEW THING"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
   디지털 마케터와 PM에 관심있는 블로거 COMMA 입니다 :)
 
-
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              COMMA
+  name:              Gujuhyun
   email:             hvv01829@gmail.com
 
 # Fallback image and color
@@ -45,11 +44,11 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    UA-137374202-1
+google_analytics:    UA-168133063-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    gytty
+disqus_shortname:    Gujuhyun
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020.05. by Gujuhyun'
