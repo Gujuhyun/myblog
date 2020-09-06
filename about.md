@@ -4,7 +4,7 @@ title: About
 menu: true
 order: 7
 ---
-
+![이미지](assets/img/me.jpg)
 ## 소개
 COMMA 블로그를 운영하는 중입니다.
 디지털 마케터와 PM을 희망하고 있고
