@@ -7,10 +7,8 @@ date: 2020-06-06 19:30:00 +09:00
 categories: insight
 tags: 뉴스레터 사회초년생 지식 상식 경제 문화 사회이슈
 comments: true
-header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
+#header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 ---
-<br><br><br>
-
 ***
 
 <center><i><b>"세상의 많은 것은 당신의 소양이 될 수 있습니다.<br>
@@ -49,7 +47,7 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 > NEWNEEK (뉴닉 - 밀레니얼을 위한 시사 뉴스레터)
 
-![뉴닉메인](/img/posts/05/img01.jpg)
+![2020-06-06-insight-resource-img01](https://user-images.githubusercontent.com/49114645/92467856-3f606500-f20d-11ea-857e-f86d52bd13e2.jpg)
 
 **우리가 시간이 없지, 세상이 안 궁금하냐!**
 
@@ -57,17 +55,16 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 매주 월-금 오전 10시에 발행되는 이메일 뉴스레터에요.
 
-![뉴닉](/img/posts/05/img02.jpg)
-
-![뉴닉](/img/posts/05/img03.jpg)
+![2020-06-06-insight-resource-img02](https://user-images.githubusercontent.com/49114645/92467860-40919200-f20d-11ea-91ad-0fbade8e334b.jpg)
+![2020-06-06-insight-resource-img03](https://user-images.githubusercontent.com/49114645/92467864-412a2880-f20d-11ea-8e6f-807f00c632fb.jpg)
 
 **&#10067;질문 형식**&#10067;을 통해 이슈들의 스토리를 전개하고 있어요.
 
-![뉴닉](/img/posts/05/img04.jpg)
+![2020-06-06-insight-resource-img04](https://user-images.githubusercontent.com/49114645/92467866-41c2bf00-f20d-11ea-9343-824cd6007dbc.jpg)
 
 진지한 내용도 있지만 재미있고 익살스럽고 NEWNEEK스러운 컨텐츠도 존재한답니다. &#128170;
 
-![뉴닉](/img/posts/05/img05.jpg)
+![2020-06-06-insight-resource-img05](https://user-images.githubusercontent.com/49114645/92467869-41c2bf00-f20d-11ea-83d5-48b183597f70.jpg)
 
 뉴스레터의 방향성에 대한 의견을 자주 물어보는 편이에요.&#128077;&#128078;
 
@@ -101,7 +98,7 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 > 순살브리핑 (sonsal - 모건스탠리 홍콩 출신 2인의 글로벌 금융경제 뉴스 살코기)
 
-![순살브리핑메인](/img/posts/05/img06.jpg)
+![2020-06-06-insight-resource-img06](https://user-images.githubusercontent.com/49114645/92467871-425b5580-f20d-11ea-90db-ec01c6118a97.jpg)
 
 모건스탠리 홍콩 출신 2인이 운영하는
 
@@ -113,13 +110,13 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 ( 3분이라고 홍보하지만 경제쪼랩인 저는 오래걸렸어요.🐤 느리면 어때요. 속도보단 방향이 더 중요한 거랍니다. 파이팅 !)
 
-![순살브리핑](/img/posts/05/img07.jpg)
+![2020-06-06-insight-resource-img07](https://user-images.githubusercontent.com/49114645/92467873-42f3ec00-f20d-11ea-91b7-d2c767bf5902.jpg)
 
-![순살브리핑](/img/posts/05/img08.jpg)
+![2020-06-06-insight-resource-img08](https://user-images.githubusercontent.com/49114645/92467874-42f3ec00-f20d-11ea-804c-5e0f42b460b1.jpg)
 
 ㅡ
 
-![순살브리핑](/img/posts/05/img09.jpg)
+![2020-06-06-insight-resource-img09](https://user-images.githubusercontent.com/49114645/92467880-438c8280-f20d-11ea-9c8c-1c352d9e73fd.jpg)
 
 순살브리핑은 뉴스 전달 뿐 아니라 이런 부분도 제공하고 있어요!
 
@@ -143,9 +140,9 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 > Uppity (어피티- 사회 초년생을 위한 경제미디어)
 
-![어피티메인](/img/posts/05/img10.jpg)
+![2020-06-06-insight-resource-img10](https://user-images.githubusercontent.com/49114645/92467883-44251900-f20d-11ea-8616-99d10025857f.jpg)
 
-![어피티메인](/img/posts/05/img11.jpg)
+![2020-06-06-insight-resource-img11](https://user-images.githubusercontent.com/49114645/92467886-44251900-f20d-11ea-8954-615e8d5b5720.jpg)
 
 앞에 설명한 순살 브리핑보다는 조금 더 **soft**한 금융 관련 이메일 뉴스레터에요.
 
@@ -155,13 +152,13 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 <br>
 
-![어피티](/img/posts/05/img12.jpg)
+![2020-06-06-insight-resource-img12](https://user-images.githubusercontent.com/49114645/92467887-44bdaf80-f20d-11ea-9d19-7e5e82d0b384.jpg)
 
 기존 머니레터가 이런 형식으로 진행되었다면 &#128070;
 
-![어피티](/img/posts/05/img13.jpg)
+![2020-06-06-insight-resource-img13](https://user-images.githubusercontent.com/49114645/92467890-44bdaf80-f20d-11ea-9211-ddbcc194fc07.jpg)
 
-![어피티](/img/posts/05/img14.jpg)
+![2020-06-06-insight-resource-img14](https://user-images.githubusercontent.com/49114645/92467892-45564600-f20d-11ea-848b-a48527cd4e3f.jpg)
 
 현재 리와인드 머니레터는 경제 금융 기초부터 다지기 👆
 
@@ -171,9 +168,9 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 
 
-![어피티](/img/posts/05/img15.jpg)
+![2020-06-06-insight-resource-img15](https://user-images.githubusercontent.com/49114645/92467893-45eedc80-f20d-11ea-82e3-402e92d001b6.jpg)
 
-![어피티](/img/posts/05/img16.jpg)
+![2020-06-06-insight-resource-img16](https://user-images.githubusercontent.com/49114645/92467895-45eedc80-f20d-11ea-98de-090ea7463e04.jpg)
 
 특히나 어피티가 제공하는 **연봉이야기**코너는 직장인들의 경제적 고민을 공유하고
 

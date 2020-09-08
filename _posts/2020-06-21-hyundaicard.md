@@ -8,11 +8,8 @@ categories: insight
 tags: 카드 현대카드 신용카드 체크카드 문화 라이프스타일 트렌드
 description: '다른 카드들보다 현대카드가 더 세련된 이유는 무엇일까?'
 comments: true
-header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
+#header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 ---
-
-<br><br><br>
-
 ***
 
 <center><i><b>"세상의 많은 것은 당신의 소양이 될 수 있습니다.<br>
@@ -47,7 +44,7 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 저기 피자스쿨이 보인다.
 
-![피자스쿨](/img/posts/06/img01.jpg)
+![2020-06-21-hyundaicard-img01](https://user-images.githubusercontent.com/49114645/92468420-1d1b1700-f20e-11ea-9073-06caf32eac89.jpg)
 
 여기로 갈 것인가? *(2시간의 준비시간을 소요한 듯한 멋진 룩을 완성한 애인과)*
 
@@ -55,9 +52,9 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 👇
 
-![이미지](/img/posts/06/img02.jpg)
+![2020-06-21-hyundaicard-img02](https://user-images.githubusercontent.com/49114645/92468423-1e4c4400-f20e-11ea-9f76-f641dc906cae.jpg)
 
-![이미지](/img/posts/06/img03.jpg)
+![2020-06-21-hyundaicard-img03](https://user-images.githubusercontent.com/49114645/92468424-1ee4da80-f20e-11ea-9a5b-2569fce39fb1.jpg)
 
 한남동 파이프그라운드*(피자집)*을 갈 것인가?
 
@@ -107,9 +104,9 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 > 카드사 내의 현대카드의 위치
 
-![이미지](/img/posts/06/img04.jpg)
+![2020-06-21-hyundaicard-img04](https://user-images.githubusercontent.com/49114645/92468425-1f7d7100-f20e-11ea-8001-abf3d3379e45.jpg)
 
-![이미지](/img/posts/06/img05.jpg)
+![2020-06-21-hyundaicard-img05](https://user-images.githubusercontent.com/49114645/92468426-1f7d7100-f20e-11ea-88f6-fc2671eba999.jpg)
 
 현대카드는 국내 8개 카드사 가운데 TOP5안에 들지만 상위랭킹에는 들지 못해요.
 
@@ -129,15 +126,15 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 카드사 1,2위를 다투고 있는 신한카드와 삼성카드 웹 사이트에요.
 
-![이미지](/img/posts/06/img06.png)
+![2020-06-21-hyundaicard-img06](https://user-images.githubusercontent.com/49114645/92468428-20160780-f20e-11ea-8e49-21c4214d8002.png)
 
-![이미지](/img/posts/06/img07.png)
+![2020-06-21-hyundaicard-img07](https://user-images.githubusercontent.com/49114645/92468430-20ae9e00-f20e-11ea-9ecb-01384c7dc9a3.png)
 
 이게 신한카드 👆
 
-![이미지](/img/posts/06/img08.png)
+![2020-06-21-hyundaicard-img08](https://user-images.githubusercontent.com/49114645/92468433-21473480-f20e-11ea-9340-46060ae8bc8f.png)
 
-![이미지](/img/posts/06/img09.png)
+![2020-06-21-hyundaicard-img09](https://user-images.githubusercontent.com/49114645/92468434-21473480-f20e-11ea-9047-3c51c35d242a.png)
 
 이게 삼성카드 👆
 
@@ -155,19 +152,18 @@ header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 
 #### **현대카드**
 
-![이미지](/img/posts/06/img10.png)
+![2020-06-21-hyundaicard-img10](https://user-images.githubusercontent.com/49114645/92468435-21dfcb00-f20e-11ea-84b0-7d5d9c09bc4b.png)
 
 일단 카드부터 너무 예쁩니다...!
 
 현대카드가 최초로 세로 방향으로 카드를 디자인 한 사실 알고 계신가요?
 
-![이미지](/img/posts/06/img11-1.png)
+![2020-06-21-hyundaicard-img11](https://user-images.githubusercontent.com/49114645/92468437-22786180-f20e-11ea-9b84-dbf94c95930e.png)
 
 the Green 카드 소개 페이지처럼 모든 카드들은 상단에 제품 목업형식으로 구성되어 있었어요.
+![2020-06-21-hyundaicard-img11-1](https://user-images.githubusercontent.com/49114645/92468439-2310f800-f20e-11ea-9e02-023a8d0380f4.png)
 
-![이미지](/img/posts/06/img12.png)
-
-![이미지](/img/posts/06/img13.jpg)
+![2020-06-21-hyundaicard-img12](https://user-images.githubusercontent.com/49114645/92468441-23a98e80-f20e-11ea-9183-7f294ed20b70.png)
 
 이번에 새로 나온 현대카드 DIGITAL LOVER 페이지는 다른 카드 소개 페이지와 다르게
 
@@ -175,19 +171,19 @@ the Green 카드 소개 페이지처럼 모든 카드들은 상단에 제품 목
 
 *(아니 이건 거의 작품아닌가요....!)*
 
-![이미지](/img/posts/06/img11.png)
+![2020-06-21-hyundaicard-img13](https://user-images.githubusercontent.com/49114645/92468442-24422500-f20e-11ea-82db-391a7b888573.jpg)
 
 그리고 지금의 현대카드 이미지를 만든 장본인
 
 바로 **컬쳐, 라이프 스타일 컨텐츠**입니다.
 
-![이미지](/img/posts/06/img14.png)
+![2020-06-21-hyundaicard-img14](https://user-images.githubusercontent.com/49114645/92468444-24422500-f20e-11ea-8033-2593a558d73c.png)
 
-![이미지](/img/posts/06/img15.png)
+![2020-06-21-hyundaicard-img15](https://user-images.githubusercontent.com/49114645/92468445-24dabb80-f20e-11ea-88fa-fcf0b0eb9e98.png)
 
-![이미지](/img/posts/06/img16.png)
+![2020-06-21-hyundaicard-img16](https://user-images.githubusercontent.com/49114645/92468449-260be880-f20e-11ea-98d8-3dfe16174d20.png)
 
-![이미지](/img/posts/06/img17.png)
+![2020-06-21-hyundaicard-img17](https://user-images.githubusercontent.com/49114645/92468452-26a47f00-f20e-11ea-9ab5-ae6571e9a13a.png)
 
 현대카드는 컬쳐,공간,라이프를 주제로
 
@@ -199,13 +195,14 @@ the Green 카드 소개 페이지처럼 모든 카드들은 상단에 제품 목
 
 **현대카드가 없으신 분들이라면?**
 
-![이미지](/img/posts/06/img18.jpg)
+![2020-06-21-hyundaicard-img18](https://user-images.githubusercontent.com/49114645/92468453-27d5ac00-f20e-11ea-8428-567d6b8ec04f.jpg)
 
-![이미지](/img/posts/06/img20.png)
+![2020-06-21-hyundaicard-img19](https://user-images.githubusercontent.com/49114645/92468454-27d5ac00-f20e-11ea-9adc-836e35021ea2.jpg)
 
-![이미지](/img/posts/06/img21.png)
+![2020-06-21-hyundaicard-img20](https://user-images.githubusercontent.com/49114645/92468456-286e4280-f20e-11ea-938f-710c480b0951.png)
 
-![이미지](/img/posts/06/img19.jpg)
+![2020-06-21-hyundaicard-img21](https://user-images.githubusercontent.com/49114645/92468457-2906d900-f20e-11ea-8c11-0853c4166ad3.png)
+
 
  VINYL & PLASTICDMS은  1만종 이상의 바이닐과 CD를 판매하는 공간으로
 
