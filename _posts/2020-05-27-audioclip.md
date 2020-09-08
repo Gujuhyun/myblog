@@ -7,10 +7,9 @@ date: 2020-05-26 17:30:00 +09:00
 categories: review
 tags: 오디오 라디오북 동영상 독서 취미 유투브 책
 comments: true
-header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
+#header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
 ---
 
-<br><br>
 잠깐! 스킵하지 마세요. 라는 말 많이 들어봤을 거예요
 
 아마 저 대사는 광고에서 많이 할 거예요.
@@ -51,12 +50,11 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 <br><br>
 **[오디오클립 - 다양한 채널, 팟캐스트와 오디오북 그리고 ASMR]**
-![오디오클립](/img/posts/02/img01.jpg)
-<br>
+![2020-05-27-audioclip-img01](https://user-images.githubusercontent.com/49114645/92466009-68332b00-f20a-11ea-89fc-8b62bffa1190.jpg)<br>
 
 **“아날로그 정서가 느껴지는 오디오 플랫폼”**
 <br>
-![오디오클립](/img/posts/02/img02.jpg)
+![2020-05-27-audioclip-img02](https://user-images.githubusercontent.com/49114645/92466012-69645800-f20a-11ea-869d-1cc32ea862ad.jpg)
 
 앱을 실행하면 손그림으로 그려진
 
@@ -65,7 +63,7 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 **“화이트와 그린으로 이뤄진 직관적인UI”**
 
-![오디오클립](/img/posts/02/img03.jpg)
+![2020-05-27-audioclip-img03](https://user-images.githubusercontent.com/49114645/92466013-69645800-f20a-11ea-90a1-12e8df5b20cf.jpg)
 
 최근 들은 오디오가 상단에 배치되어 있고
 
@@ -73,7 +71,7 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 어학 동화 예능 종교 등 오디오 컨텐츠를 무료로 즐길 수 있어요.
 
-![오디오클립](/img/posts/02/img04.jpg)
+![2020-05-27-audioclip-img04](https://user-images.githubusercontent.com/49114645/92466014-69fcee80-f20a-11ea-841e-d04b021f5a43.jpg)
 
 주간 베스트셀러를 읽어주는 오디오북 컨텐츠도 있어요.
 
@@ -83,15 +81,13 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 
 한번 재미삼아 시청해보세요 !
 
-![오디오클립](/img/posts/02/img05.jpg)
+![2020-05-27-audioclip-img05](https://user-images.githubusercontent.com/49114645/92466016-6a958500-f20a-11ea-9262-ddc96f6be452.jpg)
 
 좋았던 클립 리스트를 한 화면에서 바로 확인가능해요.
 <br><br><br>
-
 **“오디오클립만이 가진”**
 
-![오디오클립](/img/posts/02/img06.jpg)
-
+![2020-05-27-audioclip-img06](https://user-images.githubusercontent.com/49114645/92466017-6b2e1b80-f20a-11ea-81f5-aba0a2ad5ccb.jpg)
 검색 메뉴의 마이크 기능을 이용해보세요.
 
 손을 쓰지 않고 다음 클립으로 넘어갈 수도 있고
@@ -102,3 +98,8 @@ IT산업이 발전하면서 소비해야 할 컨텐츠들은 많아졌어요.
 [- 안드로이드 앱 바로가기](https://play.google.com/store/apps/details?id=com.naver.naveraudio&hl=ko)
 
 [- 애플ios 앱 바로가기](https://apps.apple.com/kr/app/%EC%98%A4%EB%94%94%EC%98%A4%ED%81%B4%EB%A6%BD-audioclip/id1192635213)
+<br>
+
+콤마의 어플 소개 괜찮으셨다면 댓글과 좋아요 부탁드려요! &#128077;&#128064;
+
+<br>
