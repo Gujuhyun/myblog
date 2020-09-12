@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /newbie/
+permalink: category/review/newbie/
 title: '[앱 리뷰] 슥삭 - 대학생활 정보 추천'
 description: '대학생활을 알차게 보내고 싶나요? 슥삭하세요!'
 date: 2020-05-27 19:30:00 +09:00

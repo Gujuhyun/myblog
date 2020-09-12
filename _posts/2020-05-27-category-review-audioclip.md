@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /audioclip/
+permalink: category/review/audioclip/
 title: '[앱 리뷰] 오디오클립 – AudioClip'
 description: '어제보다 더 나은 내일을 위한 당신을 위한 맞춤 습관 앱 루티너리를 추천할게요.'
 date: 2020-05-26 17:30:00 +09:00
