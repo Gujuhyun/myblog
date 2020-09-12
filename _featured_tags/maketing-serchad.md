@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: 검색광고
+title: SA (search ad)
 slug: 검색광고
 category: marketing
 menu: false
