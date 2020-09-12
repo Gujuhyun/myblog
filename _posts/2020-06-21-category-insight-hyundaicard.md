@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /hyundaicard/
+permalink: category/insight/hyundaicard/
 title: '[나의 호기심] 현대카드가 힙한 이유'
 description: '다른 카드들보다 현대카드가 더 세련된 이유는 무엇일까?'
 date: 2020-06-21 19:30:00 +09:00

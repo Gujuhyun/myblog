@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /date/
+permalink: category/review/date/
 title: '[앱 리뷰] 당신만 스와이프를 안하고 있을 수도 '
 description: '스마트폰으로 모든 것이 연결 가능한 세상. 그렇다면 연애는 어떠한가 '
 date: 2020-05-27 19:30:00 +09:00
