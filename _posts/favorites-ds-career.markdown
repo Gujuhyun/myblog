@@ -1,4 +1,4 @@
----
+
 layout: post
 title:  "[커리어] 데이터 사이언티스트를 위한 사이트 모음"
 subtitle:   "collection of recruitment, job search and advice sites to become a data scientist"
@@ -10,7 +10,7 @@ comments: true
 
 ## 개요
 > 데이터 사이언티스트를 위한 A to Z 및 그 외 배워야 할 사이트 모음 (주기적으로 업데이트 예정입니다.)
-  
+
 - 목차
 	- [데이터 사이언티스트 채용 Site](#데이터-사이언티스트-채용-site)
 	- [데이터 사이언티스트 구직을 위한 조언 Site](#데이터-사이언티스트-구직을-위한-조언-site)
@@ -19,7 +19,7 @@ comments: true
 	- [대학원 Site](#대학원-site)
 	- [교육기관 Site](#교육기관-site)
 	- [기타 Site](#기타-site)
- 
+
 
 ## ★ 구직조언  
 ---
@@ -32,14 +32,14 @@ comments: true
 ## ★ 채용공고  
 ---
   * [한국 인공지능 커뮤니티 - 인재구인](http://ai4.kr/jobs)
-  
+
   * [링크드인](https://www.linkedin.com)
   * [카카오AI](https://careers.kakao.com/ai)
   * [네이버클로바](https://clova.ai/ko/research/careers.html)
   * [네이버채용](https://recruit.navercorp.com/naver/recruitMain)
   * [Search & Clova](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003038&classId=&jobId=&entTypeCd=&searchTxt=CLOVA&searchSysComCd=)
   * [쏘카](https://socar.recruiter.co.kr)
-  
+
   * [페이스북 - 텐서플로우 코리아](https://www.facebook.com/groups/TensorFlowKR/)
   * [카카오뱅크](https://kakaobank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=4715)
   * [카카오모빌리티](https://kakaomobility.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=11127)
@@ -49,7 +49,7 @@ comments: true
   * [사람인 - AI,빅데이터](http://www.saramin.co.kr/zf_user/jobs/list/job-category?cat_cd=417)   	
   * [잡코리아 - IT채용관](http://www.jobkorea.co.kr/Theme/IT)
   * [로켓펀치 - 데이터 사이언티스트](https://www.rocketpunch.com/search?keywords=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8)
- 
+
   * [코멘토 - 데이터 사이언티스트](https://comento.kr/search/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8)
   * [위시캣 프로젝트](https://www.wishket.com/project/)
   * [머신러닝 온라인 잡페어 2019](https://programmers.co.kr/competitions/116/machinelearning-2019?fbclid=IwAR0DdhVr59Z67kW6e7FtmlqVOJeYmojsQNJGzq1LcEdstKnr9jJYvQ5Josg)
@@ -59,7 +59,7 @@ comments: true
 ## 현직 데이터 사이언티스트 Site  
 ---
   * [변성윤님 블로그](https://zzsza.github.io/)   
-  * [데이터 사이언스 외국 커뮤니티](https://towardsdatascience.com)	
+  * [데이터 사이언스 외국 커뮤니티](https://towardsdatascience.com)
 
 
 ## 해외취업을 위한 조언 Site  
@@ -163,7 +163,7 @@ comments: true
 * []()
 * []()
 * []()
-* 
+*
 
 ## DataSet  
 ---
@@ -225,9 +225,3 @@ comments: true
 
 * [내가 웹 개발을 시작했을 때 알았으면 했던 기본 아키텍쳐 개념들](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101?fbclid=IwAR08_CFysVp0JR8B-amrrHSkcKuTlhzPMkvRQSxfVUzKYdnyT8nBmXRPOXs)
 * [디자인역사연표 가져가세요](https://brunch.co.kr/@tigeryoonz/513?fbclid=IwAR0W9-8WxotoFAj-U_-_rAMkYJvFJwiyxIozH9JeZ4tOpIEBWSnUXPOvO6g)
-
-
-
-  
- 
-  
