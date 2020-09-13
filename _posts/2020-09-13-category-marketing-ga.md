@@ -21,7 +21,7 @@ comments: true
 
 ## GA란?
 
-![2020-09-01--ga-img02](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img02.jpg)
+![2020-09-01-ga-img02](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img02.jpg)
 
 ![2020-09-01-marketing-ga-img03](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img03.jpg)**Google Analytics** 는 현재 Google Marketing Platform 브랜드 내부의 플랫폼으로 웹 사이트 트래픽을 추적하고보고 하는 [Google](https://en.wikipedia.org/wiki/Google) 에서 제공 하는 [웹 분석](https://en.wikipedia.org/wiki/Web_analytics) 서비스 입니다.
 
