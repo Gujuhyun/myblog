@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: category/marketing/ga/
-title:  '[GA]jekyll blog에 GA 적용하기'
+permalink: marketing/ga/
+title:  '[GA] jekyll blog에 GA 적용하기'
 description: 'GA 공부해서 블로그에 적용하기'
 date: 2020-09-13 19:30:00 +09:00
-categories: ga
+categories: marketing
 tags: GA jekyll blog 퍼포먼스마케팅 디지털마케팅
 comments: true
 ---
@@ -21,9 +21,9 @@ comments: true
 
 ## GA란?
 
-![2020-09-01-marketing-ga-img02](https://user-images.githubusercontent.com/49114645/93009364-2c59e600-f5bb-11ea-8751-25179cdab9da.jpg)
+![2020-09-13-marketing-ga-img02](https://user-images.githubusercontent.com/49114645/93009812-54981380-f5c0-11ea-8db8-8e0fbcc29048.jpg)
 
-![2020-09-01-marketing-ga-img03](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img03.jpg)**Google Analytics** 는 현재 Google Marketing Platform 브랜드 내부의 플랫폼으로 웹 사이트 트래픽을 추적하고보고 하는 [Google](https://en.wikipedia.org/wiki/Google) 에서 제공 하는 [웹 분석](https://en.wikipedia.org/wiki/Web_analytics) 서비스 입니다.
+![2020-09-13-marketing-ga-img03](https://user-images.githubusercontent.com/49114645/93009813-55c94080-f5c0-11ea-8e1f-ce1cd4240155.jpg)**Google Analytics** 는 현재 Google Marketing Platform 브랜드 내부의 플랫폼으로 웹 사이트 트래픽을 추적하고보고 하는 [Google](https://en.wikipedia.org/wiki/Google) 에서 제공 하는 [웹 분석](https://en.wikipedia.org/wiki/Web_analytics) 서비스 입니다.
 
 Google Analytics는 트래픽 소스에 대한 정보와 함께 사이트를 사용하는 개인의 [세션](https://en.wikipedia.org/wiki/Session_(web_analytics)) 시간, 세션 당 페이지, [이탈률](https://en.wikipedia.org/wiki/Bounce_rate) 등과 같은 웹 사이트 활동 을 [추적](https://en.wikipedia.org/wiki/Web_tracking) 하는 데 사용됩니다 . 통합 할 수 있습니다 [Google 광고](https://en.wikipedia.org/wiki/Google_Ads) , [[6\]](https://en.wikipedia.org/wiki/Google_Analytics#cite_note-6) 있는 사용자가 만들 수 있습니다 및 방문 페이지 품질 및 추적하여 온라인 캠페인을 검토 [변환](https://en.wikipedia.org/wiki/Conversion_(marketing)) (목표). 목표에는 판매, 리드 생성, 특정 페이지보기 또는 특정 파일 다운로드가 포함될 수 있습니다.
 
@@ -50,7 +50,7 @@ Google Analytics는 트래픽 소스에 대한 정보와 함께 사이트를 사
 >
 > : 실제 Google 상품 매장( [구글 머쳔다이져 스토어](https://shop.googlemerchandisestore.com/Google+Redesign/Apparel))의 실제 GA 비지니스 데이터
 
-![2020-09-01-marketing-ga-img01](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img01.jpg)
+![2020-09-13-marketing-ga-img01](https://user-images.githubusercontent.com/49114645/93009811-52ce5000-f5c0-11ea-9935-8c3ed12017ab.jpg)
 
 데모 계정의 첫 화면입니다.
 
@@ -74,7 +74,7 @@ Google Analytics는 트래픽 소스에 대한 정보와 함께 사이트를 사
 
   <br>
 
-![2020-09-01-marketing-ga-img04](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img04.jpg)
+![2020-09-13-marketing-ga-img04](https://user-images.githubusercontent.com/49114645/93009814-5661d700-f5c0-11ea-8362-fb849e7f9dc7.jpg)
 
 획득 카테고리의 소스/매체 창을 들어가면 사용자들이 **어떤 경로**로 구글 머쳔다이저 스토어를 방문했는 지 파악할 수 있습니다.
 
@@ -104,10 +104,9 @@ Google Analytics는 트래픽 소스에 대한 정보와 함께 사이트를 사
 
 Google에서 지원하는 [구글 애널리틱스 아카데미](https://analytics.google.com/analytics/academy/)를 통해 초급-고급 버전까지 배울 수 있습니다.
 
-![2020-09-01-marketing-ga-img05](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img05.jpg)
+![2020-09-13-marketing-ga-img05](https://user-images.githubusercontent.com/49114645/93009815-5661d700-f5c0-11ea-8c08-e8ca94eb0d36.jpg)
 
-![2020-09-01-marketing-ga-img06](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img06.jpg)
-
+![2020-09-13-marketing-ga-img06](https://user-images.githubusercontent.com/49114645/93009816-56fa6d80-f5c0-11ea-8425-126a808b4cd6.jpg)
 애널리틱스 과정 수료 시 자격증이 수여됩니다.
 
 퍼포먼스, 데이터 마케팅 지원 시 도움이 되니 다들 도전해보세요 !
@@ -118,17 +117,16 @@ Google에서 지원하는 [구글 애널리틱스 아카데미](https://analytic
 
 ## jekyll blog에 적용하기
 
-![image-20200913011242741](C:\Users\hvv01\AppData\Roaming\Typora\typora-user-images\image-20200913011242741.png)
+![2020-09-13-marketing-ga-img12](https://user-images.githubusercontent.com/49114645/93009822-595cc780-f5c0-11ea-9561-c04a851ede86.jpg)
 
 GA 왼쪽 하단의 관리  -> 속성의 속성 설정을 클릭합니다.
 
 <br>
 
-![image-20200913011504875](C:\Users\hvv01\AppData\Roaming\Typora\typora-user-images\image-20200913011504875.png)
-
+![2020-09-13-marketing-ga-img13](https://user-images.githubusercontent.com/49114645/93009823-59f55e00-f5c0-11ea-9492-fb3d96ed9b96.jpg)
 속성 설정의 추적 ID와 범용 사이트 태그를 jekyll blog 코드에 삽입합니다.
 
-![image-20200913011638806](C:\Users\hvv01\AppData\Roaming\Typora\typora-user-images\image-20200913011638806.png)
+![2020-09-13-marketing-ga-img14](https://user-images.githubusercontent.com/49114645/93009825-59f55e00-f5c0-11ea-939d-4bab3975c81e.jpg)
 
 저는 jekyll Themes 중 clean blog를 사용했습니다.
 
@@ -142,7 +140,7 @@ config.yml에 google_analytics 부분에 코드를 설치하라고 나와있습�
 
 ## myblog의 GA분석하기
 
-![](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img07.jpg)
+![2020-09-13-marketing-ga-img07](https://user-images.githubusercontent.com/49114645/93009817-57930400-f5c0-11ea-8630-906517bbb93b.jpg)
 
 짠 ! 구글 데모 계정에 비해서 비루하지만, 제 블로그에 맞춘 GA 화면이 나올 겁니다.
 
@@ -168,24 +166,22 @@ GA에서 가장 중요한 건 먼저 자기 블로그의 OKR과 KPI를 정하고
 
 저는 5월 말부터 블로그를 열어놨으니 6월 1일 - 9월 13일까지 날짜를 설정할게요.
 
-![2020-09-01-marketing-ga-img08](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img08.jpg)
+![2020-09-13-marketing-ga-img08](https://user-images.githubusercontent.com/49114645/93009818-582b9a80-f5c0-11ea-9e6f-d67b16e9ecf5.jpg)
 
 잠재고객에서는 제 목표와는 다르게 New Visitor가 많네요.
 
 하지만, 이탈율이 53.43%이면서 Returing Visior가 12.1%인 것을 보아 신규 대비 재방문 비율이 낮을 것으로 예상됩니다.
 
-![2020-09-01-marketing-ga-img09](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img09.jpg)
+![2020-09-13-marketing-ga-img09](https://user-images.githubusercontent.com/49114645/93009819-582b9a80-f5c0-11ea-93d6-e6d3199aaa14.jpg)
 
 획득에서는 제 블로그를 유입한 사용자들의 주된 경로를 파악할 수 있습니다.
 
-![2020-09-01-marketing-ga-img11](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img10.jpg)
-
+![2020-09-13-marketing-ga-img10](https://user-images.githubusercontent.com/49114645/93009820-58c43100-f5c0-11ea-8051-0592accbcb67.jpg)
 행동에서는 제 블로그 유입된 사용자들이 주로 클릭한 컨텐츠를 파악할 수 있습니다.
 
 URL 설정을 잘 해놔야 유입 컨텐츠를 파악할 수 있으므로 처음 코드를 작성할 때 유의하시기 바래요! ( 저의 쓰디쓴 경험담 ㅜ)
 
-![](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img11.jpg)
-
+![2020-09-13-marketing-ga-img11](https://user-images.githubusercontent.com/49114645/93009821-58c43100-f5c0-11ea-9f40-a8c00642cc77.jpg)
 전환에서는 제가 필터로 설정한 목표들이 나옵니다.
 
 아까 잠재고객에서 재방문 비율이 낮을 것으로 예상했는데 개요부분에서도 그게 맞음으로 나오네요.
