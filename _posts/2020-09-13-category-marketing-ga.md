@@ -4,8 +4,7 @@ permalink: category/marketing/ga/
 title:  '[GA]jekyll blog에 GA 적용하기'
 description: 'GA 공부해서 블로그에 적용하기'
 date: 2020-09-13 19:30:00 +09:00
-categories: marketing
-slug: ga
+categories: ga
 tags: GA jekyll blog 퍼포먼스마케팅 디지털마케팅
 comments: true
 ---
@@ -22,7 +21,7 @@ comments: true
 
 ## GA란?
 
-![2020-09-01-ga-img02](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img02.jpg)
+![2020-09-01-marketing-ga-img02](https://user-images.githubusercontent.com/49114645/93009364-2c59e600-f5bb-11ea-8751-25179cdab9da.jpg)
 
 ![2020-09-01-marketing-ga-img03](C:\Users\hvv01\myblog\assets\img\marketing\ga\2020-09-01-marketing-ga-img03.jpg)**Google Analytics** 는 현재 Google Marketing Platform 브랜드 내부의 플랫폼으로 웹 사이트 트래픽을 추적하고보고 하는 [Google](https://en.wikipedia.org/wiki/Google) 에서 제공 하는 [웹 분석](https://en.wikipedia.org/wiki/Web_analytics) 서비스 입니다.
 
