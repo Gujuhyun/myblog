@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: category/marketing/ga/
-title:  'jekyll blog에 GA 적용하기'
+title:  '[GA]jekyll blog에 GA 적용하기'
 description: 'GA 공부해서 블로그에 적용하기'
 date: 2020-09-13 19:30:00 +09:00
 categories: marketing
