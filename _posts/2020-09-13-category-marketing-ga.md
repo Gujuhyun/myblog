@@ -5,6 +5,7 @@ title:  'jekyll blog에 GA 적용하기'
 description: 'GA 공부해서 블로그에 적용하기'
 date: 2020-09-13 19:30:00 +09:00
 categories: marketing
+slug: ga
 tags: GA jekyll blog 퍼포먼스마케팅 디지털마케팅
 comments: true
 ---
