@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: SA (search ad)
-slug: 검색광고
+title: SEO
+slug: SEO
 category: marketing
 menu: false
-order: 3
+order: 2
 ---
