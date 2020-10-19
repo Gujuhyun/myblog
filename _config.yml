@@ -1,14 +1,14 @@
 title:              "COMMA"
 tagline:            "NEXT COMMA NEW THING"
-email:              " hvv01829@gmail.com"
+email:              " hvv01829@naver.com"
 description:        "디지털 마케터와 PM에 관심있는 블로거 COMMA 입니다 :)"
 author:             "Gujuhyun"
 baseurl:            "/"
 url:                "https://ofcomma.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/bg-main.jpg"
 
-# Social Profiles
+# Social Profilesb
 #twitter_username:   twitter_username
 #instagram_username: instagram_username
 #facebook_username:  facebook_username

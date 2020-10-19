@@ -11,20 +11,21 @@ img {
       color: $primary;
     }
     > .post-title {
-      font-size: 30px;
+      font-size: 35px;
       margin-top: 30px;
       margin-bottom: 10px;
     }
     > .post-subtitle {
       font-weight: 300;
-      margin: 0 0 10px;
+      margin: 0 0 20px;
+      font-size: 20px;
     }
     > .post-feature {
       max-width: 100%;
     }
   }
   > .post-meta {
-    font-size: 18px;
+    font-size: 13px;
     font-style: italic;
     margin-top: 0;
     color: $gray-600;
@@ -41,7 +42,7 @@ img {
   @media only screen and (min-width: 768px) {
     > a {
       > .post-title {
-        font-size: 36px;
+        font-size: 35px;
       }
     }
   }
