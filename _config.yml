@@ -13,6 +13,9 @@ thumbnail:          "/img/bg-main.jpg"
 #instagram_username: instagram_username
 #facebook_username:  facebook_username
 #linkedin_username:  linkedin_username
+# 블로그 disqus shortname
+disqus:
+  shortname: comma-1
 
 # Build settings
 markdown:           kramdown
