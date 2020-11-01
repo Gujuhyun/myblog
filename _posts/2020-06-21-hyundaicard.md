@@ -4,10 +4,10 @@ permalink: /hyundaicard/
 title: '[나의 호기심] 현대카드가 힙한 이유'
 description: '다른 카드들보다 현대카드가 더 세련된 이유는 무엇일까?'
 date: 2020-06-21 19:30:00 +09:00
-feature: '/img/posts/01/feature_heosang-jeon.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: '/img/posts/04/main.jpg'
+background: '/img/posts/04/hd.jpg'
 categories:
-  - information
+  - archive
 tags:
   - 카드
   - 현대카드

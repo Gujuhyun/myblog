@@ -2,11 +2,10 @@
 layout: post
 permalink: /audioclip/
 title: '[앱 리뷰] 오디오클립 – AudioClip'
-description: '유투브를 보면 재밌어서 시간이 언제 그렇게 흘렀나 싶죠.
-하지만 가끔 너무 아무것도 못한 내 자신이 아쉬울 때 있지 않으신가요. 그렇다면 보는 것 대신 듣는 건 어떨까요 ?'
+description: '여러가지 다 하고 싶은 욕심쟁이 당신. 그저 듣기만 하세요'
 date: 2020-05-26 17:30:00 +09:00
-feature: '/img/posts/01/feature_heosang-jeon.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: '/img/posts/01/main.jpg'
+background: '/img/posts/01/hd.jpg'
 categories:
   - information
 tags:

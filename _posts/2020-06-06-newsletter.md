@@ -4,8 +4,8 @@ permalink: /newsletter/
 title: '[무료 뉴스레터 추천] 천 리 길도 한 걸음부터'
 description: '하루에 하나씩 부담없는 사회 이슈들 !'
 date: 2020-06-06 19:30:00 +09:00
-feature: '/img/posts/01/feature_heosang-jeon.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: '/img/posts/05/main.jpg'
+background: '/img/posts/05/hd.jpg'
 categories:
 - information
 tags:
