@@ -6,7 +6,7 @@ author:             "Gujuhyun"
 baseurl:            "/"
 url:                "https://ofcomma.com"
 locale:             "ko_KR"
-thumbnail:          "/img/hd.jpg"
+thumbnail:          "/img/bg-main.jpg"
 
 # Social Profilesb
 #twitter_username:   twitter_username
